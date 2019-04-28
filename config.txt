@@ -1,6 +1,6 @@
 token= NTYzNzMwMjQ1ODQ5NzEwNjAz.XKdkvg.InH6957GUhkMLlPbXgIY0ISvk84
 owner= 526947416658935810 
-prefix= 3
-game= 3help | War
+prefix= 6
+game= 
 stayinchannel=true
 songinstatus=false
